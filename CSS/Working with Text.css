@@ -1,0 +1,154 @@
+/* Ini belajar Font-Family Property */
+.serif {
+    font-family: "Times New Roman", Times, serif;
+}
+.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.monospace {
+    font-family: 'Courier New', Courier, monospace;
+}
+.cursive {
+    font-family: Florence, cursive;
+}
+.fantasy {
+    font-family: Blippo, fantasy;
+}
+
+/* Ini belajar Font-Size Property */
+.small {
+    font-size: small;
+}
+.medium {
+    font-size: medium;
+}
+.large {
+    font-size: large;
+}
+.xlarge {
+    font-size: x-large;
+}
+
+/* Ini belajar Font-Style Property */
+.normal {
+    font-style: normal;
+}
+.italic {
+    font-style: italic;
+}
+.oblique {
+    font-style: oblique;
+}
+/* Ini Belajar Font-Weight Property */
+.light {
+    font-weight: lighter;
+}
+.bold {
+    font-weight: bold;
+}
+.bolder {
+    font-weight: bolder;
+}
+.thicker {
+    font-weight: 700;
+}
+/* Ini Belajar Font-Variant Property */
+p.normal {
+    font-variant: normal;
+}
+p.small {
+    font-variant: small-caps;
+}
+/* Ini Belajar Color Property */
+.example {
+    color: green;
+}
+.exampleRGB {
+    color: rgb(255,0,0);
+}
+h1 {
+    color: #0000ff;
+}
+/* Ini belajar text-align Property */
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+.center {
+    text-align: center;
+}
+/* Ini Belajar vertical-align Property */
+td.top {
+    vertical-align: top;
+}
+td.middle {
+    vertical-align: middle;
+}
+td.bottom {
+    vertical-align: bottom;
+}
+span.baseline {
+    vertical-align: baseline;
+}
+span.sub {
+    vertical-align: sub;
+}
+span.super {
+    vertical-align: super;
+}
+span.pixel {
+    vertical-align: -10px;
+}
+.main {
+    background-color: lightskyblue;
+    display: inline-table;
+    height: 150px;
+    width: 400px;
+}
+.paragraph {
+    display: table-cell;
+    vertical-align: middle;
+}
+/* Ini belajar text-decoration Property */
+.none {
+    text-decoration: none;
+}
+.inherit {
+    text-decoration: inherit;
+}
+.overline {
+    text-decoration: overline;
+}
+.underline {
+    text-decoration: underline;
+}
+.line-through {
+    text-decoration: line-through;
+}
+.blink {
+    text-decoration: blink;
+}
+/* Ini belajar text-indent property */
+.indent {
+    text-indent: 60px;
+}
+/* Ini belajar text-shadow Property */
+h3 {
+    color: blue;
+    font-size: 30px;
+    text-shadow:5px 2px 4px grey;
+}
+.blur {
+    font-size: 20px;
+    text-shadow: rgba(0,0,255,1) -1px -2px 0.5em;
+}
+/* Ini belajar text-transform Property */
+p.capitalize {
+    text-transform: capitalize;
+}
+h4.blur {
+  color: rgb(0, 56, 255);
+  font-size: 20px;
+}
